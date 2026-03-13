@@ -1,3 +1,5 @@
+torch>=2.4.0
+torchvision>=0.19.0
 accelerate==0.28.0
 audio-separator==0.17.2
 av==12.1.0
@@ -25,10 +27,10 @@ pillow==10.3.0
 setuptools==70.0.0
 tqdm==4.66.4
 transformers==4.39.2
-xformers==0.0.25.post1
+xformers==0.0.28.post3
 isort==5.13.2
 pylint==3.2.2
 pre-commit==3.7.1
 gradio==4.36.1
 lpips
-ffmpeg-python==0.2.0
+ffmpeg
