@@ -1,4 +1,4 @@
-numpy==0.61.2
+numpy
 einops==0.8.1
 opencv-python==4.11.0.86
 decord==0.6.0
